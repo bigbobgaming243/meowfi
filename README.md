@@ -19,7 +19,7 @@ MeowFi is a memecoin landing page featuring a DEX swap interface that allows use
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ShyneADL/meowfi.git
+   git clone https://github.com/ezeslucky/meowfi.git
    cd meowfi
    ```
 2. Install dependencies:
